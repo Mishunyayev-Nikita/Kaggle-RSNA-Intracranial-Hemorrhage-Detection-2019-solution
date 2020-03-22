@@ -1,6 +1,6 @@
 ## RSNA Intracranial Hemorrhage Detection 2019
 
-Our team ranked 152nd place (TOP 12%) in the 2-stage competition [RSNA Intracranial Hemorrhage Detection 2019 on Kaggle platform](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/leaderboard). This repository consists of code and configs that I used to train our models. The solution is powered by awesome [Albumentations](https://github.com/albu/albumentations), [PyTorch](https://pytorch.org), [Cadene models](https://github.com/Cadene/pretrained-models.pytorch), [EfficientNet](https://www.kaggle.com/chanhu/efficientnet), [Albumentations](https://github.com/albu/albumentations) and [FastAi](https://docs.fast.ai/) libraries.
+Our team ranked 152nd place (TOP 12%) in the 2-stage competition [RSNA Intracranial Hemorrhage Detection 2019 on Kaggle platform](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/leaderboard). This repository consists of code and configs that I used to train our models. The solution is powered by awesome [Albumentations](https://github.com/albu/albumentations), [PyTorch](https://pytorch.org), [Cadene models](https://github.com/Cadene/pretrained-models.pytorch), [EfficientNet](https://www.kaggle.com/chanhu/efficientnet) and [FastAi](https://docs.fast.ai/) libraries.
 
 ## In this repository you can find:
 * `models` - folder with scripts for preprocessing data, learning models **(EfficientNet B0/B2/B5, ResNext101_32x4d)** and inference with D4 TTA
